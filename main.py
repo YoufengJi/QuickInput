@@ -10,7 +10,7 @@ import threading
 texts = {}
 active_popup = None  # 用于跟踪当前活跃的弹窗
 
-with open('texts.csv', 'r') as file:
+with open('text.csv', 'r') as file:
     reader = csv.reader(file)
     next(reader)  # Skip the header row
     for row in reader:

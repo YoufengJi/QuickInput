@@ -1,8 +1,8 @@
-So far it's just a simple tool for me to quickly input some text.
+So far it's just a simple tool developed by chatgpt for me to quickly input some text.
 The defult shortcut is `ctrl+[` or you can diy in the main.py  
 If you wanna use it directly, just download the dist folder and run the exe file.
 
-目前只是一个简单的工具，用于快速输入一些文本。  
+目前只是一个由chatgpt简单的工具，用于快速输入一些文本。  
 默认快捷键是`ctrl+[`，你也可以在main.py中自定义。  
 如果你想直接使用，只需下载dist文件夹并运行exe文件。
 
