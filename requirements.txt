@@ -1,0 +1,6 @@
+tkinter
+pillow>=8.0.0
+pyautogui>=0.9.54
+pywin32>=304
+pystray>=0.19.4
+pynput>=1.7.6 
